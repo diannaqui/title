@@ -1,0 +1,13 @@
+body {
+  background: radial-gradient(rgb(5, 193, 250), #013d49);
+  font-size: 30px;
+  text-align: center;
+  color:rgb(0, 0, 0);
+  text-shadow: 1px 1px rgb(6, 223, 243);
+}
+
+video {
+  display: block;
+  margin: auto;
+  width: 20em;
+}
